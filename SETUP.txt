@@ -1,0 +1,2 @@
+One Cart Market V2
+Open index.html to preview. Upload it to a static host to make it public. Real payment, shipping, login and admin backend need to be connected before production.
